@@ -1,0 +1,512 @@
+/* lecturesinparis */
+
+body {
+  background-color: #f0f3f7;
+  /* background-image: url(img/bg3.png); */
+  /* background-repeat: no-repeat;*/
+  /* background-size:  cover; */
+  /* overflow: hidden; */
+  /* background-image: url("https://images.unsplash.com/photo-1498354136128-58f790194fa7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8d66d0f68c7412e69612414926dbbe97&auto=format&fit=crop&w=1050&q=80"); */
+  /* background-image: url("https://images.unsplash.com/photo-1559177612-384b52fa12d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80"); */
+  /* background-attachment: fixed; */
+  /* overflow: hidden; */
+  height: 100%;
+  }
+  
+  
+  /* animated background with quotes */
+  /* ---------------------------------------------------------------------------- */
+  
+  .quotewrapper {
+    position:absolute;
+    display: block;
+    background-color:red;
+    height: 1400%;
+    width: 100%
+    z-index: -100;
+  }
+  
+  .bgquote1::after {
+    /* content:
+    "I don't aim for perfection. But I do want to try and\A come up with something interesting. -Kate Bush"; */
+    color: #999999;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -100;
+    /* font-family: "Palatino"; */
+    /* top: 30000px; */
+    /* left: 20px;
+    transform: rotate(-90deg);
+    white-space: pre-wrap;
+    animation: nudge2 5900s linear infinite alternate;
+    position: absolute;
+    opacity: 0.69;
+    overflow-y: hidden; */
+  }
+  
+  .bgquote2:after {
+    content:
+    "Building art is a synthesis of life in materialised form. We should try to bring\A in under the same hat not a splintered way of thinking, but all in harmony together. -Alvar Aalto";
+    position: absolute;
+    font-family: "Palatino";
+    top: 25rem;
+    left: calc(0% - 2rem);
+    z-index: -1;
+    white-space: pre-wrap;
+    animation: nudge 8500s linear infinite alternate;
+    /* opacity: 0.5; */
+    opacity: 0.69;
+  }
+  .bgquote3:after {
+    content:
+    "I think the most important thing about music\A is the sense of escape. \A-Thom Yorke";
+    position: absolute;
+    font-family: "Palatino";
+    top: 9rem;
+    left: 70rem;
+    z-index: -1;
+    white-space: pre-wrap;
+    animation: nudge3 4000s linear infinite alternate;
+    opacity: 0.69;
+  }
+  .bgquote4:after {
+    content:
+    "Music is a higher revelation than all \Awisdom and philosophy. -Ludwig van Beethoven";
+    position: absolute;
+    font-family: "Palatino";
+    top: 1rem;
+    left: 70rem;
+    z-index: -1;
+    white-space: pre-wrap;
+    animation: nudge4 5500s linear infinite alternate;
+    opacity: 0.69;
+  }
+  .bgquote5:after {
+    content:
+    "Without music, life would be a mistake. -Friedrich Nietzsche";
+    position: absolute;
+    font-family: "Palatino";
+    top: 120rem;
+    left: 57rem;
+    z-index: -1;
+    white-space: pre-wrap;
+    animation: nudge4 3900s linear infinite alternate;
+    opacity: 0.69;
+  }
+  .bgquote6:after {
+    content:
+    "You're only given a little spark of madness. \AYou mustn't lose it. -Robin Williams";
+    position: absolute;
+    font-family: "Palatino";
+    top: 55rem;
+    left: -3rem;
+    z-index: -1;
+    white-space: pre-wrap;
+    animation: nudge2 4999s linear infinite alternate;
+    opacity: 0.69;
+  }
+  .bgquote7:after {
+    content:
+    "Sometimes you have to play a long time to be able to play like yourself. \A-Miles Davis";
+    position: absolute;
+    font-family: "Palatino";
+    top: 300rem;
+    left: -4rem;
+    z-index: -1;
+    white-space: pre-wrap;
+    animation: nudge 8999s linear infinite alternate;
+    opacity: 0.69;
+  }
+  .bgquote8:after {
+    content:
+    "My creed for art in general is that it should enrich the soul; it should teach spirituality by showing\A a person a portion of himself that he would not discover otherwise...a part of yourself you never knew existed. -Bill Evans";
+    position: absolute;
+    font-family: "Palatino";
+    top: 100rem;
+    left: 1055px;
+    z-index: -1;
+    white-space: pre-wrap;
+    animation: nudge3 2099s linear infinite alternate;
+    opacity: 0.69;
+  }
+  .bgquote9:after {
+    content:
+    "I believe in things that are developed through hard work. I always like people who have developed long and hard, especially\A through introspection and a lot of dedication. I think what they arrive at is usually a much deeper and more beautiful thing\A than the person who seems to have that ability and fluidity from the beginning. I say this because it's a good message\A to give to young talents who feel as I used to. -Bill Evans";
+    position: absolute;
+    font-family: "Palatino";
+    top: 1900px;
+    left: -195px;
+    z-index: -1;
+    white-space: pre-wrap;
+    animation: nudge 5099s linear infinite alternate;
+    opacity: 0.69;
+  }
+  .bgquote10:after {
+    content:
+    "Be encouraged and encourage others. -Kiefer";
+    position: absolute;
+    font-family: "Palatino";
+    top: 2900px;
+    left: -125px;
+    z-index: -1;
+    white-space: pre-wrap;
+    animation: nudge5 4099s linear infinite alternate;
+    opacity: 0.69;
+  }
+  .bgquote11:after {
+    content:
+    "Il ne faut pas que je pense que je ne veux pas penser. Parce que c'est encore une pensée. -Jean-Paul Sartre";
+    position: absolute;
+    font-family: "Palatino";
+    top: -4200px;
+    left: 825px;
+    z-index: -1;
+    white-space: pre-wrap;
+    animation: nudge3 3899s linear infinite alternate;
+    opacity: 0.69;
+  }
+  
+  @keyframes nudge {
+    0% {
+      transform: translate(0, 0rem) rotate(-90deg);
+    }
+    100% {
+      transform: translate(0, 800rem) rotate(-90deg);
+    }
+  }
+  @keyframes nudge2 {
+    0% {
+      transform: translate(0, 0rem) rotate(-90deg);
+      overflow: hidden;
+    }
+    100% {
+      transform: translate(0, 800rem) rotate(-90deg) skew(0.5deg, 2deg);
+      overflow: hidden;
+    }
+  }
+  @keyframes nudge3 {
+    0% {
+      transform: translate(0, 300rem) rotate(90deg);
+    }
+    100% {
+      transform: translate(0, 0rem) rotate(90deg) skew(1deg, 3deg);
+    }
+  }
+  @keyframes nudge4 {
+    0% {
+      transform: translate(0, -24rem) rotate(90deg);
+    }
+    100% {
+      transform: translate(0, 500rem) rotate(90deg);
+    }
+  }
+  @keyframes nudge5 {
+    0% {
+      transform: translate(0, 200rem) rotate(-90deg);
+    }
+    100% {
+      transform: translate(0, 0rem) rotate(-90deg) skew(0.1deg, 0deg);
+    }
+  }
+  
+  /* header */
+  /* ---------------------------------------------------------------------------- */
+  
+  
+  #toggle{
+    visibility: hidden;
+    opacity: 0;
+    position: relative;
+    z-index: 1;
+  }
+  
+  #toggle:checked ~ .bio {
+    display: contents;
+  }
+  
+  #toggle2{
+    visibility: hidden;
+    opacity: 0;
+    position: relative;
+    z-index: 1;
+  }
+  
+  #toggle2:checked ~ .bio2 {
+    display: contents;
+  }
+  
+  .info {
+    color: black;
+    font-size: 16.5px;
+    position: relative;
+    text-align: justify;
+    font-size: 13.5px;
+    padding-right: 13px;
+    border-top: 5px solid black;
+    cursor: pointer;
+    left: calc(50% - 164px);
+    top: 5px;
+    cursor: help;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  @keyframes appear {
+    0%{
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+  }
+  
+  .form-row {
+    animation: appear 900ms ease 1;
+    width: 60%;
+    font-family: "Helvetica";
+    text-align: center;
+    margin: 14px auto -10px;
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+  
+  
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  .form-group{
+    border: 2px solid black;
+    border-left-width: thick;
+    text-decoration:none;
+  }
+  
+  
+  dialog  > p {
+    animation: appear 900ms ease 1;
+    width: 60%;
+  
+    /* background-image: url(img/h1bg.png); */
+  
+    display: block;
+    margin: 14px auto -10px;
+  
+    font-family: "Helvetica";
+    text-align: center;
+  
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  .logoimg {
+    background-image: url(img/h1bg025.png);
+    background-size: 19em 20px;
+    background-position: bottom ;
+    background-repeat: no-repeat;
+  
+    max-width: 100%;
+    height: 50px;
+    display: table;
+    margin: 22px auto 0;
+    cursor: cell;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  
+  .subheader {
+    font-family: "Helvetica";
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    top: 4.5px;
+    /* left: 37.82rem; */
+    position: relative;
+    font-size: 13.5px;
+    padding-right: 13px;
+    border-top: 5px solid black;
+    cursor: pointer;
+    left: calc(50% - 144.5px);
+    cursor: copy;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  .subheadercontact {
+    font-family: "Helvetica";
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    top: 4.5px;
+    /* left: 37.82rem; */
+    position: relative;
+    font-size: 13.5px;
+    padding-right: 13px;
+    border-top: 5px solid black;
+    left: calc(50% - 125px);
+    cursor: e-resize;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  
+  
+  /* calendar */
+  /* ---------------------------------------------------------------------------- */
+  .calendar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: center;
+    font-family: "Helvetica";
+    flex-direction: column;
+    max-width: 41rem; /* Set the width to 80% of the page */
+    margin: 1rem auto; /* Center the calendar with auto margins */
+}
+  
+  .calendar > .event {
+    max-height: 18rem;
+    margin-bottom: 13px;
+    overflow: scroll;
+  
+    border-top: 5px solid black;
+    flex: 1;
+    flex-grow: 1;
+    opacity: 0.85;
+    transition: all 0.5s; /* transition when the mouse over */
+  }
+  .calendar > .event:hover {
+    opacity: 1;
+    /* background-color: lightblue; */
+  }
+  .calendar > .daydate {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-image: url(img/h1bg050.png);
+    background-size: 100% 200%;
+    border-left: 10px solid  black;
+    padding-left: 0.25rem;
+  
+    flex: 1;
+    flex-grow: 1;
+  }
+  .calendar > .daydate > .day {
+    font-size: 32px;
+    margin: 0;
+  }
+  .calendar > .daydate > .date {
+    font-size: 32px;
+    margin: 0;
+    margin-top: -2rem;
+  }
+  .calendar > .event > .time {
+    font-size: 22px;
+    margin: 0;
+    padding-bottom: 0.1em;
+    display: inline-block;
+  }
+  .calendar > .daydate > .month {
+    font-size: 32px;
+    margin: 0;
+    margin-top: -1%;
+    padding-left: 1px;
+  }
+  .calendar > .event > .title {
+    font-size: 27px;
+    margin: 0;
+    padding-bottom: 0.1em;
+  }
+  .calendar > .event > .host {
+    font-size: 19px;
+    margin: 0;
+  }
+  .calendar > .event > .link {
+    font-size: 12px;
+    margin: 0;
+    cursor: pointer;
+    color: #0066cc;
+    text-decoration: underline;
+    transition: 3s;
+  }
+  .calendar > .event > .link:hover {
+    background-color: #f0f0f0;
+    font-style: oblique;
+  }
+  .calendar > .event > .description {
+    font-size: 17px;
+    margin: 0;
+    text-align: justify;
+    padding-top: 0.40em;
+  }
+  
+  /* darkmode */
+  /* ---------------------------------------------------------------------------- */
+  @media (prefers-color-scheme: dark) {
+  body {
+  filter: invert(1);
+  background-color: black;
+  }
+  .calendar > .event > .link {
+  color: rgb(214, 135, 19)
+  /* color: red */
+  }
+  }
+  
+  
+  /* crossplatform edit */
+  /* ---------------------------------------------------------------------------- */
+  
+  @media only screen and (max-width: 767px) {
+    .bgquote1::after {
+      display: none;
+    }
+    .bgquote2:after {
+      display: none;
+    }
+    .bgquote3:after {
+      display: none;
+    }
+    .bgquote4:after {
+      display: none;
+    }
+    .bgquote5:after {
+      display: none;
+    }
+    .bgquote6:after {
+      display: none;
+    }
+    .bgquote7:after {
+      display: none;
+    }
+    .bgquote8:after {
+      display: none;
+    }
+    .bgquote9:after {
+      display: none;
+    }
+    .bgquote10:after {
+      display: none;
+    }
+    .bgquote11:after {
+      display: none;
+    }
+  
+    .logoimg {
+  
+    }
+  }
+  

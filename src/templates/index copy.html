@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- css -->
+<!---------------------------------------------------------------------------->
+<link rel="stylesheet" href='/static/style_byjeremy copy.css' />
+
+<!-- favicon -->
+<!---------------------------------------------------------------------------->
+<link rel="icon" href="/static/img/favicon.png" sizes="228x228">
+
+<!-- title -->
+<!---------------------------------------------------------------------------->
+<title>lecturesinparis</title>
+
+<!-- google analytics -->
+<!---------------------------------------------------------------------------->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158201485-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-158201485-1');
+</script>
+
+<!-- Google Tag Manager -->
+<!---------------------------------------------------------------------------->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZ3RPJF');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<!---------------------------------------------------------------------------->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZ3RPJF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Hero Section -->
+<!---------------------------------------------------------------------------->
+<div class="hero">
+    <h1>Welcome to Lectures in Paris</h1>
+    <p>Discover upcoming events and enrich your knowledge.</p>
+    <button class="cta-button">Explore Events</button>
+</div>
+
+<!-- Header Section -->
+<!---------------------------------------------------------------------------->
+<div class="header">
+    <img class="logoimg" src="/static/img/logo_1.png" alt="lecturesinparis">
+    <a href="mailto:lecturesinparis@gmail.com" target="_blank" class="subheadercontact">Contact</a>
+    <input type="checkbox" id="toggle2" class="subheader">
+    <label for="toggle2" class="subheader">S'abonner au calendrier</label>
+</div>
+
+<!-- Info Popup -->
+<!---------------------------------------------------------------------------->
+<input type="checkbox" id="toggle" class="info">
+<label for="toggle" class="info">ℹ</label>
+
+<dialog class="bio">
+    <p>lecturesinparis a pour objectif de promouvoir l'éducation et la culture. lecturesinparis recense les conférences données par les principales universités et institutions à Paris.</p>
+</dialog>
+
+<!-- Filters Section -->
+<!---------------------------------------------------------------------------->
+<div class="filters">
+    <div class="filter">All</div>
+    <div class="filter">Conferences</div>
+    <div class="filter">Workshops</div>
+    <div class="filter">Exhibitions</div>
+</div>
+
+<!-- Calendar Section -->
+<!---------------------------------------------------------------------------->
+<div class="calendar">
+    {% for date, events in grouped_events %}
+        <div class="daydate">
+            <h3 class="day">{{ date | date("%A %d") }}</h3> <!-- Display the day and date -->
+            <h3 class="month">{{ date | date("%B") }}</h3> <!-- Display the month -->
+        </div>
+        {% for event in events %}
+            <div class="event">
+                <h4 class="time">{{ event.time }}</h4>
+                <h5 class="title">{{ event.title }}</h5>
+                <h6 class="host">:: {{ event.location }}</h6>
+                <a class="link" href="{{ event.link }}" target="_blank">Lien</a>
+                <p class="description">{{ event.description }}</p>
+            </div>
+        {% endfor %}
+    {% endfor %}
+</div>
+
+</body>
+</html>
