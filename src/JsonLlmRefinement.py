@@ -3,7 +3,7 @@ import subprocess
 import re
 
 # Load the JSON file
-with open('events.json', 'r') as f:
+with open('src/events.json', 'r') as f:
     events = json.load(f)
 
 

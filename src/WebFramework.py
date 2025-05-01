@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    with open('refined_events.json') as f:
+    with open('src/refined_events.json') as f:
         events = json.load(f)
 
     # Group events by date
