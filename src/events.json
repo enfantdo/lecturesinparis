@@ -1,19 +1,19 @@
 [
     {
-        "title": "Falsafa | Anthropologie et pens\u00e9e arabe",
-        "description": "",
-        "date": "06 mai 2025",
-        "time": "",
-        "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/falsafa-anthropologie-et-pensee-arabe"
-    },
-    {
         "title": "Gaza, une guerre coloniale ?",
         "description": "",
         "date": "22 mai 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/gaza-guerre-coloniale"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/gaza-guerre-coloniale"
+    },
+    {
+        "title": "Parlons Syrie! #2 : Les d\u00e9fis \u00e9conomiques de la transition syrienne",
+        "description": "",
+        "date": "27 mai 2025",
+        "time": "",
+        "location": "Institut du Monde Arabe",
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/parlons-syrie-2-les-defis-economiques-transition-syrienne"
     },
     {
         "title": "Ici & Maintenant, l'actualit\u00e9 du monde arabe",
@@ -21,7 +21,15 @@
         "date": "28 mai 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-5"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-5"
+    },
+    {
+        "title": "Patrick Boucheron | Ibn Khald\u00fbn et Machiavel : vies parall\u00e8les",
+        "description": "",
+        "date": "03 juin 2025",
+        "time": "",
+        "location": "Institut du Monde Arabe",
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/patrick-boucheron-ibn-khaldun-et-machiavel-vies-paralleles"
     },
     {
         "title": "Gaza : comment sauvegarder les sites arch\u00e9ologiques ?",
@@ -29,7 +37,7 @@
         "date": "05 juin 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/gaza-comment-sauvegarder-les-sites-archeologiques"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/gaza-comment-sauvegarder-les-sites-archeologiques"
     },
     {
         "title": "Jeudis de l'IMA | Cl\u00e9op\u00e2tre, d\u00e9esse, reine et femme d\u2019Etat",
@@ -37,7 +45,7 @@
         "date": "19 juin 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/jeudis-ima-cleopatre-deesse-reine-et-femme-etat"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/jeudis-ima-cleopatre-deesse-reine-et-femme-etat"
     },
     {
         "title": "Soir\u00e9e exceptionnelle : Jean-Pierre Filiu, un historien \u00e0 Gaza",
@@ -45,7 +53,7 @@
         "date": "20 juin 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/soiree-exceptionnelle-jean-pierre-filiu-historien-gaza"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/soiree-exceptionnelle-jean-pierre-filiu-historien-gaza"
     },
     {
         "title": "Ici & Maintenant, l'actualit\u00e9 du monde arabe",
@@ -53,7 +61,7 @@
         "date": "25 juin 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-0"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-0"
     },
     {
         "title": "Jeudis de l'IMA | Cl\u00e9op\u00e2tre, les femmes et le \u00ab sexe faible \u00bb",
@@ -61,7 +69,7 @@
         "date": "26 juin 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/jeudis-ima-cleopatre-les-femmes-et-sexe-faible"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/jeudis-ima-cleopatre-les-femmes-et-sexe-faible"
     },
     {
         "title": "Jeudis de l'IMA | Cl\u00e9op\u00e2tre : la l\u00e9gende, le mythe, l\u2019ic\u00f4ne",
@@ -69,7 +77,7 @@
         "date": "03 juillet 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/jeudis-ima-cleopatre-legende-mythe-icone"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/jeudis-ima-cleopatre-legende-mythe-icone"
     },
     {
         "title": "Jeudis de l'IMA | Cl\u00e9op\u00e2tre et les reines d\u2019Orient",
@@ -77,7 +85,7 @@
         "date": "10 juillet 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/jeudis-ima-cleopatre-et-les-reines-orient"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/jeudis-ima-cleopatre-et-les-reines-orient"
     },
     {
         "title": "Trois villes de Palestine et leur architecture",
@@ -85,7 +93,7 @@
         "date": "11 septembre 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/trois-villes-palestine-et-leur-architecture"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/trois-villes-palestine-et-leur-architecture"
     },
     {
         "title": "Ici & Maintenant, l'actualit\u00e9 du monde arabe",
@@ -93,7 +101,7 @@
         "date": "17 septembre 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-1"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-1"
     },
     {
         "title": "Ici & Maintenant, l'actualit\u00e9 du monde arabe",
@@ -101,7 +109,7 @@
         "date": "15 octobre 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-2"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-2"
     },
     {
         "title": "Ici & Maintenant, l'actualit\u00e9 du monde arabe",
@@ -109,7 +117,7 @@
         "date": "12 novembre 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-3"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-3"
     },
     {
         "title": "Ici & Maintenant, l'actualit\u00e9 du monde arabe",
@@ -117,15 +125,15 @@
         "date": "10 d\u00e9cembre 2025",
         "time": "",
         "location": "Institut du Monde Arabe",
-        "link": "/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-4"
+        "link": "https://www.imarabe.org/fr/agenda/rencontres-et-debats/ici-maintenant-actualite-du-monde-arabe-4"
     },
     {
-        "title": "Le Proc\u00e8s de l'IA",
+        "title": "L\u2019IA en question, questions \u00e0 l\u2019IA",
         "description": "Deux jours de d\u00e9bats autours et avec l'IA",
         "date": "24 mai au 25 mai 2025",
         "time": "",
         "location": "Centre Pompidou",
-        "link": "/agenda/le-proces-de-lia/detail"
+        "link": "https://www.ircam.fr/agenda/lia-en-question-questions-a-lia/detail"
     },
     {
         "title": "La cr\u00e9ation musicale : coop\u00e9ration, recherche et dialogues artistiques",
@@ -133,7 +141,7 @@
         "date": "mardi 27 mai 2025",
         "time": "",
         "location": "Ircam",
-        "link": "/agenda/la-creation-musicale-cooperation-recherche-et-dialogues-artistiques/detail"
+        "link": "https://www.ircam.fr/agenda/la-creation-musicale-cooperation-recherche-et-dialogues-artistiques/detail"
     },
     {
         "title": "Musiques de synthe\u0300se : la French touch des anne\u0301es 1970",
@@ -141,7 +149,7 @@
         "date": "3 juin au 4 juin 2025",
         "time": "",
         "location": "Maison des Sciences de l'Homme Paris Nord",
-        "link": "/agenda/musiques-de-synthese-la-french-touch-des-annees-1970/detail"
+        "link": "https://www.ircam.fr/agenda/musiques-de-synthese-la-french-touch-des-annees-1970/detail"
     },
     {
         "title": "Contre-feu, la cr\u00e9ation musicale dans l'espace public",
@@ -149,7 +157,7 @@
         "date": "mercredi 4 juin 2025",
         "time": "",
         "location": "Ircam",
-        "link": "/agenda/contre-feu-la-creation-musicale-dans-lespace-public/detail"
+        "link": "https://www.ircam.fr/agenda/contre-feu-la-creation-musicale-dans-lespace-public/detail"
     },
     {
         "title": "Projection de films : Pierre Boulez",
@@ -157,7 +165,7 @@
         "date": "11 juin au 28 juin 2025",
         "time": "",
         "location": "Ircam",
-        "link": "/agenda/projection-de-films-pierre-boulez/detail"
+        "link": "https://www.ircam.fr/agenda/projection-de-films-pierre-boulez/detail"
     },
     {
         "title": "\u00ab On n\u2019y entend rien ! \u00bb : rencontre avec la Maison de la Musique Contemporaine",
@@ -165,23 +173,7 @@
         "date": "vendredi 20 juin 2025",
         "time": "",
         "location": "Ircam",
-        "link": "/agenda/on-ny-entend-rien-rencontre-avec-la-maison-de-la-musique-contemporaine/detail"
-    },
-    {
-        "title": "Rencontre litt\u00e9raire : La dame du jeu d\u2019\u00e9checs avec Philippe Charlier",
-        "description": "Pr\u00e9sentation litt\u00e9raire par Philippe Charlier autour de son ouvrage \u00ab\u00a0La dame du jeu d\u2019\u00e9checs\u00a0\u00bb publi\u00e9 aux \u00e9ditions Plon en 2024.",
-        "date": "Samedi 3 mai 2025\n15h",
-        "time": "Samedi 3 mai 2025\n15h",
-        "location": "Guimet",
-        "link": "https://www.guimet.fr/fr/expositions/marc-riboud-photographies-du-vietnam-1966-1976"
-    },
-    {
-        "title": "Rencontre litt\u00e9raire: Bao Da\u00ef Le dernier Empereur du Vi\u00eatnam",
-        "description": "Rencontre avec\u00a0Daniel Grandcl\u00e9ment,\u00a0biographe de Bao Da\u00ef",
-        "date": "Samedi 10 mai \u00e0 15h",
-        "time": "Samedi 10 mai \u00e0 15h",
-        "location": "Guimet",
-        "link": "https://www.guimet.fr/fr/expositions/bronzes-royaux-dangkor-un-art-du-divin"
+        "link": "https://www.ircam.fr/agenda/on-ny-entend-rien-rencontre-avec-la-maison-de-la-musique-contemporaine/detail"
     },
     {
         "title": "Rencontre: Un psy \u00e0 Bollywood",
@@ -189,7 +181,7 @@
         "date": "Jeudi 22 mai \u00e0 18h30",
         "time": "Jeudi 22 mai \u00e0 18h30",
         "location": "Guimet",
-        "link": "https://www.guimet.fr/fr/nos-collections/asie-du-sud-est/portrait-du-roi-jayavarman-vii"
+        "link": "https://www.guimet.fr/fr/expositions/bronzes-royaux-dangkor-un-art-du-divin"
     },
     {
         "title": "Gorgone de Jenny Teng",
@@ -197,7 +189,7 @@
         "date": "Vendredi 23 mai 2025\n20h",
         "time": "Vendredi 23 mai 2025\n20h",
         "location": "Guimet",
-        "link": "https://www.guimet.fr/fr/guimet-chefs-doeuvre-du-musee-guimet-en-region"
+        "link": "https://www.guimet.fr/fr/activites-visites/rendez-vous-aux-jardins-2025"
     },
     {
         "title": "Dream Land de Steve Chen",
@@ -205,7 +197,7 @@
         "date": "Mercredi 28 mai 2025\n20h",
         "time": "Mercredi 28 mai 2025\n20h",
         "location": "Guimet",
-        "link": "https://www.guimet.fr/fr/emile-guimet"
+        "link": "https://www.guimet.fr/fr/nos-collections/asie-du-sud-est/portrait-du-roi-jayavarman-vii"
     },
     {
         "title": "Rencontre avec le commissaire de l'exposition Bronzes Royaux d'Angkor",
@@ -213,117 +205,61 @@
         "date": "Dimanche 1er juin 2025\n15h30",
         "time": "Dimanche 1er juin 2025\n15h30",
         "location": "Guimet",
+        "link": "https://www.guimet.fr/fr/guimet-chefs-doeuvre-du-musee-guimet-en-region"
+    },
+    {
+        "title": "Rendez-vous aux Jardins - Voyage initiatique dans les montagnes tao\u00efstes",
+        "description": "L\u2019exposition \u00ab\u00a0Bronzes royaux d\u2019Angkor, un art du divin\u00a0\u00bb racont\u00e9e par Thierry Z\u00e9phir.",
+        "date": "Vendredi 6 juin 2025\n18h",
+        "time": "Vendredi 6 juin 2025\n18h",
+        "location": "Guimet",
+        "link": "https://www.guimet.fr/fr/8e-prix-emile-guimet-de-litterature-asiatique"
+    },
+    {
+        "title": "Journ\u00e9e th\u00e9matique\u00a0: Bronzes royaux d\u2019Angkor",
+        "description": "\u00c0 l\u2019occasion de la sortie de son livre La forteresse des \u00e2mes mortes : voyage initiatique dans les montagnes tao\u00efstes (\u00e9ditions Actes Sud), le mus\u00e9e Guimet invite Sandrine Chenivesse,\u00a0\u00e9crivaine, sinologue et ethnologue.",
+        "date": "Samedi 7 juin 2025\n9h30 - 16h30",
+        "time": "Samedi 7 juin 2025\n9h30 - 16h30",
+        "location": "Guimet",
         "link": "https://www.guimet.fr/fr/hanok-restaurant"
     },
     {
         "title": "Documentaires cambodgiens du Centre Bophana",
-        "description": "L\u2019exposition \u00ab\u00a0Bronzes royaux d\u2019Angkor, un art du divin\u00a0\u00bb racont\u00e9e par Pierre Baptiste.",
+        "description": "Histoire, arch\u00e9ologie, iconographie, analyses scientifiques et coop\u00e9ration internationale\u2026 autour d'un art sacr\u00e9 du Cambodge",
         "date": "Jeudi 26 juin 2025\n20h",
         "time": "Jeudi 26 juin 2025\n20h",
         "location": "Guimet",
-        "link": "https://www.guimet.fr/fr/activites-visites/rencontre-litteraire-la-dame-du-jeu-dechecs-avec-philippe-charlier"
+        "link": "https://www.guimet.fr/fr/han-rooftop"
     },
     {
-        "title": "La cin\u00e9math\u00e8que du documentaire \u00e0 la Bpi\u00a0: Les yeux doc \u00e0 midi \u2022 Voyage, voyages",
-        "description": "",
-        "date": "10.01.25 \u2014 04.04.25",
-        "time": "19h30",
-        "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/la-cinematheque-du-documentaire-a-la-bpi-les-yeux-doc-a-midi-voyage-voyages"
-    },
-    {
-        "title": "Exposition Belladone de Tatiana Wolska #Foire internationale Drawing now Art Fair_Paris",
-        "description": "",
-        "date": "24.01.25 \u2014 10.04.25",
-        "time": "19h",
-        "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/exposition-belladone-de-tatiana-wolska-foire-internationale-drawing-now-art-fair-paris"
-    },
-    {
-        "title": "Exposition\u00a0: \u00ab\u00a0The Tuning of the Afterworld\u00a0\u00bb # La Box, l\u2019Ensa & le Ch\u00e2teau d\u2019eau_Bourges",
-        "description": "",
-        "date": "07.02.25 \u2014 14.04.25",
-        "time": "19h",
-        "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/exposition-the-tuning-of-the-afterworld-la-box-l-ensa-le-chateau-d-eau-bourges"
+        "title": "Funan de Denis Do",
+        "description": "Le mus\u00e9e Guimet propose une s\u00e9lection de courts m\u00e9trages produits dans le cadre du programme \u00ab\u00a0Amplifying Voices of Indigenous Women and Discriminated Groups\u00a0\u00bb du centr Bophana.",
+        "date": "Dimanche 29 juin 2025\n16h00",
+        "time": "Dimanche 29 juin 2025\n16h00",
+        "location": "Guimet",
+        "link": "https://www.guimet.fr/fr/activites-visites/rencontre-un-psy-bollywood"
     },
     {
         "title": "Justine Bougerol dans l\u2019exposition Chaosmos au MAIF Social Club \u00e0 Paris",
         "description": "",
         "date": "08.02.25 \u2014 26.07.25",
-        "time": "20h",
+        "time": "19h",
         "location": "Centre Wallonie-Bruxelles",
         "link": "https://cwb.fr/agenda/justine-bougerol-dans-l-exposition-chaosmos-au-maif-social-club-a-paris"
-    },
-    {
-        "title": "Installation \u00ab\u00a022 novembre 2014, Cleveland\u00a0\u00bb de Pierre Larauza",
-        "description": "",
-        "date": "06.03.25 \u2014 12.04.25",
-        "time": "19h",
-        "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/installation-22-novembre-2014-cleveland-de-pierre-larauza"
-    },
-    {
-        "title": "Installation \u00ab\u00a0La Palmeraie des M\u00e9moires\u00a0\u00bb de Mehdi-Georges Lahlou",
-        "description": "",
-        "date": "06.03.25 \u2014 12.04.25",
-        "time": "19h30",
-        "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/installation-la-palmeraie-des-memoires-de-mehdi-georges-lahlou"
-    },
-    {
-        "title": "\u201cYoka\u00ef, Japanese Spirits\u201d de Stephan Goldrajch \u00e0 la Galerie Xippas, Paris",
-        "description": "",
-        "date": "15.03.25 \u2014 19.04.25",
-        "time": "12h30",
-        "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/yokai-japanese-spirits-de-stephan-goldrajch-a-la-galerie-xippas-paris"
-    },
-    {
-        "title": "Exposition collective KnalPatronen | CSS @CWB #Prix Carr\u00e9 sur Seine 2024",
-        "description": "",
-        "date": "27.03.25 \u2014 12.04.25",
-        "time": "19h",
-        "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/exposition-collective-prix-carre-sur-seine-2024"
     },
     {
         "title": "Installation \u00ab\u00a0Roscosmic space shop\u00a0\u00bb de Louise Charlier #Derri\u00e8re le miroir",
         "description": "",
         "date": "27.03.25 \u2014 11.05.25",
-        "time": "20h",
+        "time": "19h30",
         "location": "Centre Wallonie-Bruxelles",
         "link": "https://cwb.fr/agenda/installation-roscosmic-space-shop-de-louise-charlier-derriere-le-miroir"
-    },
-    {
-        "title": "Exquise Belgique\u00a0: Conversation autour de deux ouvrages de Genevi\u00e8ve Damas et Pierre Mertens",
-        "description": "",
-        "date": "01.04.25",
-        "time": "19h",
-        "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/exquise-belgique-conversation-autour-de-deux-ouvrages-de-genevieve-damas-et-pierre-mertens"
-    },
-    {
-        "title": "Belgian Theory \u2013 Cycle Lib\u00e9ralisme autoritaire\u00a0: S\u00e9ance 2",
-        "description": "",
-        "date": "02.04.25",
-        "time": "",
-        "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/belgian-theory-cycle-liberalisme-autoritaire-seance-2"
-    },
-    {
-        "title": "Soir\u00e9e Rhizome autour de Florence Minder avec son spectacle Good Mourning",
-        "description": "",
-        "date": "03.04.25",
-        "time": "",
-        "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/soiree-rhizome-autour-de-florence-minder-avec-son-spectacle-good-mourning"
     },
     {
         "title": "Aubane Fil\u00e9e au Festival CIRCULATION(S)_Paris",
         "description": "",
         "date": "05.04.25 \u2014 01.06.25",
-        "time": "",
+        "time": "12h30",
         "location": "Centre Wallonie-Bruxelles",
         "link": "https://cwb.fr/agenda/aubane-filee-au-festival-circulation-s-paris"
     },
@@ -331,79 +267,143 @@
         "title": "Belgomania au S\u00e9choir-Port Boinot & Le Pilori \u00e0 Niort",
         "description": "",
         "date": "05.04.25 \u2014 25.05.25",
-        "time": "",
+        "time": "18h",
         "location": "Centre Wallonie-Bruxelles",
         "link": "https://cwb.fr/agenda/belgomania-focus-sur-la-photographie-emergente-de-la-federation-wallonie-bruxelles"
     },
     {
-        "title": "Avant-premi\u00e8re\u00a0: \u00ab\u00a0MEXICO 86\u00a0\u00bb un film de C\u00e9sar Diaz",
+        "title": "\u00ab\u00a0Nous n\u2019\u00e9tions pas cens\u00e9es \u00eatre talentueuses\u00a0\u00bb Une carte blanche de Chlo\u00e9 Delaume",
         "description": "",
-        "date": "07.04.25",
-        "time": "",
+        "date": "06.05.25",
+        "time": "17h",
         "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/avant-premiere-mexico-86-un-film-de-cesar-diaz"
+        "link": "https://cwb.fr/agenda/nous-n-etions-pas-censees-etre-talentueuses-une-carte-blanche-de-chloe-delaume"
     },
     {
-        "title": "Belgian Theory \u2013 Cycle Lib\u00e9ralisme autoritaire\u00a0: S\u00e9ance 3",
+        "title": "Exquise Belgique\u00a0: Conversation autour de deux ouvrages de Philippe Marczewski et Conrad Detrez",
         "description": "",
-        "date": "09.04.25",
-        "time": "",
+        "date": "13.05.25",
+        "time": "14h30",
         "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/belgian-theory-cycle-liberalisme-autoritaire-seance-3"
+        "link": "https://cwb.fr/agenda/exquise-belgique-conversation-autour-de-deux-ouvrages-de-philippe-marczewski-et-conrad-detrez"
     },
     {
-        "title": "La seizi\u00e8me arcane - Carnavalo en Nef des marges dans l\u2019ombre des certitudes",
+        "title": "Bistrot litt\u00e9raire Sp\u00e9cial Rentr\u00e9e litt\u00e9raire avec Barbara Abel et Arnaud Nihoul",
         "description": "",
-        "date": "11.04.25",
-        "time": "",
+        "date": "14.05.25",
+        "time": "19h",
         "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/la-seizieme-arcane-carnavalo-en-nef-des-marges"
+        "link": "https://cwb.fr/agenda/bistrot-litteraie-special-rentree-litteraire-avec-barbara-abel-et-arnaud-nihoul"
     },
     {
-        "title": "Bistrot litt\u00e9raire avec Giuseppe Santoliquido et Sevy Neige",
+        "title": "Symbiosium 2_Cosmologies Speculatives #Abyssal, Sideral & Synth\u00e9tique",
         "description": "",
-        "date": "16.04.25",
-        "time": "",
+        "date": "16.05.25 \u2014 23.08.25",
+        "time": "20h",
         "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/bistrot-litteraire-avec-giuseppe-santoliquido-et-sevy-neige"
+        "link": "https://cwb.fr/agenda/symbiosium-2-cosmologies-speculatives-abyssal-sideral-synthetique"
     },
     {
-        "title": "Conf\u00e9rence \u00ab\u00a0Arva Vacua\u00a0\u00bb\u00a0: Des territoires sans cartes \u2013 g\u00e9opo\u00e9tiques abyssales & sid\u00e9rales \u00e0 l\u2019\u00e8re liquide #Symbiosium2",
+        "title": "La Nuit des mus\u00e9es de Symbiosium 2_Cosmologies Speculatives",
         "description": "",
-        "date": "25.04.25",
+        "date": "17.05.25",
         "time": "",
         "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/conference-arva-vacua-des-territoires-sans-cartes-geopoetiques-abyssales-siderales-a-l-ere-liquide-symbiosium2"
+        "link": "https://cwb.fr/agenda/la-nuit-des-musees-de-symbiosium-2-cosmologies-speculatives"
     },
     {
-        "title": "Avant-premi\u00e8re\u00a0: \u00ab\u00a0MERCKX\u00a0\u00bb un film un film de Christophe Hermans et Boris Tilquin",
+        "title": "\u00ab\u00a0Les Yeux ferm\u00e9s\u00a0\u00bb avec SKY H-1, concert dans l\u2019Obscurit\u00e9 #Symbiosium 2",
         "description": "",
-        "date": "28.04.25",
+        "date": "22.05.25",
         "time": "",
         "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/avant-premiere-merckx-un-film-un-film-de-christophe-hermans-et-boris-tilquin"
+        "link": "https://cwb.fr/agenda/les-yeux-fermes-de-sky-h1-un-concert-dans-l-obscurite-symbiosium-2"
     },
     {
-        "title": "Laure Limongi \u00ab\u00a0Le Service des Panac\u00e9es\u00a0\u00bb #Villa Medicis - 2e s\u00e9ance",
+        "title": "Paris pluriversel\u00a0: Bernard Dadi\u00e9 po\u00e8te des libert\u00e9s",
         "description": "",
-        "date": "29.04.25",
+        "date": "23.05.25",
         "time": "",
         "location": "Centre Wallonie-Bruxelles",
-        "link": "https://cwb.fr/agenda/laure-limongi-le-service-des-panacees-villa-medicis-2"
+        "link": "https://cwb.fr/agenda/autour-de-bernard-dadie"
     },
     {
-        "title": "\u00c9volution et devenir du patrimoine architectural en C\u00f4te d\u2019Ivoire",
-        "description": "L\u2019architecture ivoirienne s\u2019inscrit dans une histoire longue et \u00e9volutive, marqu\u00e9e d\u2019abord par des traditions vernaculaires bien avant la colonisation. Ces architectures locales, adapt\u00e9es aux contextes climatiques, sociaux et culturels, ont fa\u00e7onn\u00e9 le paysage b\u00e2ti et inspir\u00e9 des pratiques qui\u2026",
-        "date": "Mercredi07 mai.202519:00",
-        "time": "Mercredi07 mai.202519:00",
+        "title": "Anna Raimondo au Festival Lips #2 \u2014 Hydra_Aix-en Provence",
+        "description": "",
+        "date": "24.05.25",
+        "time": "",
+        "location": "Centre Wallonie-Bruxelles",
+        "link": "https://cwb.fr/agenda/anna-raimondo-au-festival-lips-2-hydra-aix-en-provence"
+    },
+    {
+        "title": "La Nuit de la Litt\u00e9rature 2025 au Goethe-Institut \u00e0 Paris",
+        "description": "",
+        "date": "24.05.25",
+        "time": "",
+        "location": "Centre Wallonie-Bruxelles",
+        "link": "https://cwb.fr/agenda/la-nuit-de-la-litterature-2025-au-goethe-institut-a-paris"
+    },
+    {
+        "title": "Conf\u00e9rences Pirates & Ren\u00e9gat.e.s. Utopies & Cosmologies \u00e0 l\u2019\u00c8re Liquide #Symbiosium2",
+        "description": "",
+        "date": "26.05.25",
+        "time": "",
+        "location": "Centre Wallonie-Bruxelles",
+        "link": "https://cwb.fr/agenda/conferences-pirates-renegat-e-s-utopies-cosmologies-a-l-ere-liquide-symbiosium2"
+    },
+    {
+        "title": "Carte blanche aux \u00e9ditons La Pierre d\u2019Alun #42e March\u00e9 de la Po\u00e9sie",
+        "description": "",
+        "date": "27.05.25",
+        "time": "",
+        "location": "Centre Wallonie-Bruxelles",
+        "link": "https://cwb.fr/agenda/carte-blanche-aux-editons-la-pierre-d-alun-42e-marche-de-la-poesie"
+    },
+    {
+        "title": "Les Rendez-vous critiques - 22/05/2025",
+        "description": "Les Rendez-vous critiques sont le moment de la confrontation des id\u00e9es et de la controverse sur fond d\u2019actualit\u00e9.",
+        "date": "Jeudi22 mai.202519:00",
+        "time": "Jeudi22 mai.202519:00",
         "location": "Cit\u00e9 de l'architecture et du patrimoine",
         "link": ""
     },
     {
-        "title": "\u00ab Construire l\u2019inconstructible \u00bb, par Triptyque architecture, S\u00e3o Paulo, Paris, et Rute Cui\u00e1, architecte",
+        "title": "\u00ab C\u0153ur de ville \u00bb, avec Pierre Aschieri, maire de Mouans-Sartoux et Marc Barani, architecte",
+        "description": "Ce cycle met en lumi\u00e8re un projet architectural d\u2019exception, port\u00e9 par un maire, tout en favorisant le partage de bonnes pratiques entre \u00e9lus et architectes.",
+        "date": "Lundi26 mai.202519:00",
+        "time": "Lundi26 mai.202519:00",
+        "location": "Cit\u00e9 de l'architecture et du patrimoine",
+        "link": ""
+    },
+    {
+        "title": "Elever l\u2019eau, b\u00e2tir le paysage",
+        "description": "\u00c0 l\u2019occasion des 150 ans de la construction de leur maison pas comme les autres \u2014 un ancien ch\u00e2teau d\u2019eau \u2014 Christine et Guy Boutron proposent une immersion dans l\u2019univers singulier de ces \u00e9difices techniques, souvent oubli\u00e9s mais omnipr\u00e9sents dans le paysage. Dans le cadre du cycle \"La m\u00e9moire en\u2026",
+        "date": "Mercredi04 juin.202519:00",
+        "time": "Mercredi04 juin.202519:00",
+        "location": "Cit\u00e9 de l'architecture et du patrimoine",
+        "link": ""
+    },
+    {
+        "title": "La maison de l\u2019\u00e9crivain-voyageur Pierre Loti",
+        "description": "Apr\u00e8s de longs mois de travaux minutieux, durant lesquels artistes-artisans ont retouch\u00e9, recr\u00e9\u00e9 et sublim\u00e9 les d\u00e9cors de chaque pi\u00e8ce de ce joyau architectural, le public s\u2019appr\u00eate \u00e0 red\u00e9couvrir l\u2019univers extraordinaire de l\u2019\u00e9crivain-voyageur.",
+        "date": "Mercredi11 juin.202519:00",
+        "time": "Mercredi11 juin.202519:00",
+        "location": "Cit\u00e9 de l'architecture et du patrimoine",
+        "link": ""
+    },
+    {
+        "title": "Jean-Louis Cohen [1949-2023]",
+        "description": "Par l\u2019ampleur de son \u0153uvre et de ses engagements, Jean-Louis Cohen a profond\u00e9ment marqu\u00e9 le champ de l\u2019histoire de l\u2019architecture et de l\u2019urbanisme, en France mais aussi dans le monde.",
+        "date": "Jeudi12 juin.2025",
+        "time": "Jeudi12 juin.2025",
+        "location": "Cit\u00e9 de l'architecture et du patrimoine",
+        "link": ""
+    },
+    {
+        "title": "\u00ab Partir de l\u2019existant \u00bb, par Jeanne Gang, architecte, Chicago",
         "description": "Les Entretiens de Chaillot sont des conf\u00e9rences mensuelles d\u2019un architecte, d\u2019un urbaniste ou d\u2019un paysagiste, fran\u00e7ais ou \u00e9tranger, sur ses r\u00e9alisations et ses projets, sa pens\u00e9e, sa d\u00e9marche, ses m\u00e9thodes.",
-        "date": "Lundi12 mai.202519:00",
-        "time": "Lundi12 mai.202519:00",
+        "date": "Lundi16 juin.202519:00",
+        "time": "Lundi16 juin.202519:00",
         "location": "Cit\u00e9 de l'architecture et du patrimoine",
         "link": ""
     },
@@ -432,52 +432,12 @@
         "link": ""
     },
     {
-        "title": "Les Paranthropes, nos cousins m\u00e9connus",
-        "description": "",
-        "date": "Mercredi 30 avril 2025",
-        "time": "",
-        "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/rencontre/les-paranthropes-nos-cousins-meconnus"
-    },
-    {
-        "title": "Comment l\u2019enfant fa\u00e7onne les soci\u00e9t\u00e9s humaines",
-        "description": "",
-        "date": "Lundi 5 mai 2025",
-        "time": "",
-        "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/conference/comment-l-enfant-faconne-les-societes-humaines"
-    },
-    {
-        "title": "\u00c0 la d\u00e9couverte d'Homo erectus et de ses successeurs",
-        "description": "",
-        "date": "Mercredi 7 mai 2025",
-        "time": "",
-        "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/rencontre/a-la-decouverte-d-homo-erectus-et-de-ses-successeurs"
-    },
-    {
-        "title": "L\u2019oc\u00e9an \u00e0 table",
-        "description": "",
-        "date": "Lundi 12 mai 2025",
-        "time": "",
-        "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/conference/l-ocean-a-table"
-    },
-    {
-        "title": "Les secrets de l'Imp\u00e9ratrice, une enqu\u00eate dans le Pal\u00e9olithique breton",
-        "description": "",
-        "date": "Mercredi 14 mai 2025",
-        "time": "",
-        "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/rencontre/les-secrets-de-l-imperatrice-une-enquete-dans-le-paleolithique-breton"
-    },
-    {
         "title": "Le ma\u00efs et la biodiversit\u00e9 agricole",
         "description": "",
         "date": "Mercredi 21 mai 2025",
         "time": "",
         "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/rencontre/le-mais-et-la-biodiversite-agricole"
+        "link": "https://www.museedelhomme.fr/fr/rencontre/le-mais-et-la-biodiversite-agricole"
     },
     {
         "title": "Festival international Jean Rouch",
@@ -485,7 +445,7 @@
         "date": "Mercredi\u00a021, jeudi\u00a022 et vendredi 23\u00a0mai",
         "time": "",
         "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/festival-international-jean-rouch-0"
+        "link": "https://www.museedelhomme.fr/fr/festival-international-jean-rouch-0"
     },
     {
         "title": "Esclavage\u00a0: un pass\u00e9 qui nous fa\u00e7onne encore",
@@ -493,7 +453,7 @@
         "date": "Lundi 26 mai 2025",
         "time": "",
         "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/rencontre/esclavage-un-passe-qui-nous-faconne-encore"
+        "link": "https://www.museedelhomme.fr/fr/rencontre/esclavage-un-passe-qui-nous-faconne-encore"
     },
     {
         "title": "Femmes des mangroves, actrices d\u2019une \u00e9cologie durable",
@@ -501,7 +461,7 @@
         "date": "Mercredi 28 mai 2025",
         "time": "",
         "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/rencontre/femmes-des-mangroves-actrices-d-une-ecologie-durable"
+        "link": "https://www.museedelhomme.fr/fr/rencontre/femmes-des-mangroves-actrices-d-une-ecologie-durable"
     },
     {
         "title": "L'origine des comportements symboliques",
@@ -509,7 +469,7 @@
         "date": "Lundi 2 juin 2025",
         "time": "",
         "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/conference/l-origine-des-comportements-symboliques"
+        "link": "https://www.museedelhomme.fr/fr/conference/l-origine-des-comportements-symboliques"
     },
     {
         "title": "Comment les sites arch\u00e9ologiques sont-ils dat\u00e9s\u00a0?",
@@ -517,7 +477,7 @@
         "date": "Mercredi 4 juin 2025",
         "time": "",
         "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/rencontre/comment-les-sites-archeologiques-sont-ils-dates"
+        "link": "https://www.museedelhomme.fr/fr/rencontre/comment-les-sites-archeologiques-sont-ils-dates"
     },
     {
         "title": "Comment notre rapport au progr\u00e8s a chang\u00e9",
@@ -525,7 +485,7 @@
         "date": "Mercredi 11 juin 2025",
         "time": "",
         "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/rencontre/comment-notre-rapport-au-progres-a-change"
+        "link": "https://www.museedelhomme.fr/fr/rencontre/comment-notre-rapport-au-progres-a-change"
     },
     {
         "title": "Traverser les fronti\u00e8res pour \u00eatre soi",
@@ -533,7 +493,7 @@
         "date": "Lundi 16 juin 2025",
         "time": "",
         "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/rencontre/traverser-les-frontieres-pour-etre-soi"
+        "link": "https://www.museedelhomme.fr/fr/rencontre/traverser-les-frontieres-pour-etre-soi"
     },
     {
         "title": "Comment regarder l\u2019envol\u00e9e des bustes\u00a0?",
@@ -541,7 +501,7 @@
         "date": "Mercredi 18 juin 2025",
         "time": "",
         "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/rencontre/comment-regarder-l-envolee-des-bustes"
+        "link": "https://www.museedelhomme.fr/fr/rencontre/comment-regarder-l-envolee-des-bustes"
     },
     {
         "title": "Humains et babouins\u00a0: une coexistence impossible\u00a0?",
@@ -549,70 +509,366 @@
         "date": "Mercredi 25 juin 2025",
         "time": "",
         "location": "Mus\u00e9e de l'Homme",
-        "link": "/fr/rencontre/humains-et-babouins-une-coexistence-impossible"
+        "link": "https://www.museedelhomme.fr/fr/rencontre/humains-et-babouins-une-coexistence-impossible"
     },
     {
-        "title": "Vers la fin prochaine des \u00e9nergies fossiles ? Quand les int\u00e9r\u00eats divergent",
+        "title": "\u00c0 propos de la discrimination dans le soin",
         "description": "",
-        "date": "30 avr. 2025 - 18 h 30 - 20 h",
-        "time": "30 avr. 2025 - 18 h 30 - 20 h",
+        "date": "21 Mai. 2025 - 12 h 30 - 14 h",
+        "time": "21 Mai. 2025 - 12 h 30 - 14 h",
         "location": "Fran\u00e7ois-Mitterrand",
-        "link": "/fr/agenda/vers-la-fin-prochaine-des-energies-fossiles-quand-les-interets-divergent"
+        "link": "https://www.bnf.fr/fr/agenda/propos-de-la-discrimination-dans-le-soin"
     },
     {
-        "title": "L\u00e9vi-Strauss dans les collections de la BnF",
+        "title": "Approche descriptive du Maghreb antique\u202f: cent ans de fouilles de l\u2019EFR \u00e0 Timgad",
         "description": "",
-        "date": "2 Mai. 2025 - 14 h - 15 h\u202f30",
-        "time": "2 Mai. 2025 - 14 h - 15 h\u202f30",
+        "date": "21 Mai. 2025 - 18 h\u202f30 - 20 h",
+        "time": "21 Mai. 2025 - 18 h\u202f30 - 20 h",
+        "location": "Fran\u00e7ois-Mitterrand",
+        "link": "https://www.bnf.fr/fr/agenda/approche-descriptive-du-maghreb-antique-cent-ans-de-fouilles-de-lefr-timgad"
+    },
+    {
+        "title": "La Pologne, au centre de la nouvelle Europe ?",
+        "description": "",
+        "date": "22 Mai. 2025 - 18 h - 20 h",
+        "time": "22 Mai. 2025 - 18 h - 20 h",
+        "location": "Fran\u00e7ois-Mitterrand",
+        "link": "https://www.bnf.fr/fr/agenda/la-pologne-au-centre-de-la-nouvelle-europe"
+    },
+    {
+        "title": "\u00ab\u202fLouise\u202f\u00bb de Gustave Charpentier \u2013 Conf\u00e9rence/concert",
+        "description": "",
+        "date": "26 Mai. 2025 - 18 h 15 - 19 h 30",
+        "time": "26 Mai. 2025 - 18 h 15 - 19 h 30",
+        "location": "INHA",
+        "link": "https://www.bnf.fr/fr/agenda/louise-de-gustave-charpentier-conferenceconcert"
+    },
+    {
+        "title": "Lancelot, l\u2019\u00e9ternel amant de la reine Gueni\u00e8vre, du Moyen \u00e2ge \u00e0 nos jours",
+        "description": "",
+        "date": "26 Mai. 2025 - 18 h\u202f30 - 20\u202fh",
+        "time": "26 Mai. 2025 - 18 h\u202f30 - 20\u202fh",
+        "location": "Arsenal",
+        "link": "https://www.bnf.fr/fr/agenda/lancelot-leternel-amant-de-la-reine-guenievre-du-moyen-age-nos-jours"
+    },
+    {
+        "title": "Morgane, entre ambigu\u00eft\u00e9 et polyvalence",
+        "description": "",
+        "date": "2 juin. 2025 - 18 h\u202f30 - 20\u202fh",
+        "time": "2 juin. 2025 - 18 h\u202f30 - 20\u202fh",
+        "location": "Fran\u00e7ois-Mitterrand",
+        "link": "https://www.bnf.fr/fr/agenda/morgane-entre-ambiguite-et-polyvalence"
+    },
+    {
+        "title": "Fran\u00e7ois-Louis Schmied et Pierre Legrain\u00a0: \u00ab\u202fLe Cantique des cantiques\u202f\u00bb, ode \u00e0 l'Art d\u00e9co",
+        "description": "",
+        "date": "3 juin. 2025 - 18 h 15 - 19 h 30",
+        "time": "3 juin. 2025 - 18 h 15 - 19 h 30",
+        "location": "INHA",
+        "link": "https://www.bnf.fr/fr/agenda/francois-louis-schmied-et-pierre-legrain-le-cantique-des-cantiques-ode-lart-deco"
+    },
+    {
+        "title": "L\u2019identit\u00e9 et la politesse dans la culture vietnamienne \u00e0 travers l\u2019histoire de\u00a0T\u00f4i\u00a0(moi/je)",
+        "description": "",
+        "date": "5 juin. 2025 - 16 h\u202f30 - 18 h",
+        "time": "5 juin. 2025 - 16 h\u202f30 - 18 h",
+        "location": "Fran\u00e7ois-Mitterrand",
+        "link": "https://www.bnf.fr/fr/agenda/lidentite-et-la-politesse-dans-la-culture-vietnamienne-travers-lhistoire-de-toi-moije"
+    },
+    {
+        "title": "Photographies et repr\u00e9sentations afro-br\u00e9siliennes dans les collections de la fondation Pierre Verger et de la BnF",
+        "description": "",
+        "date": "6 juin. 2025 - 14 h - 15 h",
+        "time": "6 juin. 2025 - 14 h - 15 h",
         "location": "Webinaire",
-        "link": "/fr/agenda/levi-strauss-dans-les-collections-de-la-bnf"
+        "link": "/fr/agenda/photographies-et-representations-afro-bresiliennes-dans-les-collections-de-la-fondation"
     },
     {
-        "title": "Sot ou saint\u202f? Le grand \u00e9cart de Perceval au fil des si\u00e8cles",
+        "title": "Philosophie du soin au cin\u00e9ma",
         "description": "",
-        "date": "5 Mai. 2025 - 18 h\u202f30 - 20\u202fh",
-        "time": "5 Mai. 2025 - 18 h\u202f30 - 20\u202fh",
+        "date": "11 juin. 2025 - 12 h 30 - 14 h",
+        "time": "11 juin. 2025 - 12 h 30 - 14 h",
         "location": "Fran\u00e7ois-Mitterrand",
-        "link": "/fr/agenda/sot-ou-saint-le-grand-ecart-de-perceval-au-fil-des-siecles"
+        "link": "/fr/agenda/philosophie-du-soin-au-cinema"
     },
     {
-        "title": "La fin de l'univers : sc\u00e9narios pour le dernier acte",
+        "title": "\u00ab Ce que l\u2019ordinateur fait aux cartes\u202f\u00bb",
         "description": "",
-        "date": "14 Mai. 2025 - 18 h 30 - 20 h",
-        "time": "14 Mai. 2025 - 18 h 30 - 20 h",
-        "location": "Fran\u00e7ois-Mitterrand",
-        "link": "/fr/agenda/la-fin-de-lunivers-scenarios-pour-le-dernier-acte"
-    },
-    {
-        "title": "Shakespeare et l\u2019esprit du lieu",
-        "description": "",
-        "date": "15 Mai. 2025 - 9 h - 12\u202fh",
-        "time": "15 Mai. 2025 - 9 h - 12\u202fh",
+        "date": "12 juin. 2025 - 18 h 15 - 20 h",
+        "time": "12 juin. 2025 - 18 h 15 - 20 h",
         "location": "Richelieu",
-        "link": "/fr/agenda/shakespeare-et-lesprit-du-lieu"
+        "link": "/fr/agenda/ce-que-lordinateur-fait-aux-cartes"
     },
     {
-        "title": "Carte et communication. Map design, s\u00e9miologie graphique, g\u00e9ovisualisation",
+        "title": "Un chef-d\u2019\u0153uvre de la cartographie chinoise\u202f: \u00ab\u202fla carte g\u00e9ographique compl\u00e8te de l\u2019empire Qing unifi\u00e9 et \u00e9ternel\u202f\u00bb",
         "description": "",
-        "date": "15 Mai. 2025 - 18 h 15 - 20 h",
-        "time": "15 Mai. 2025 - 18 h 15 - 20 h",
-        "location": "Richelieu",
-        "link": "/fr/agenda/carte-et-communication-map-design-semiologie-graphique-geovisualisation"
+        "date": "17 juin. 2025 - 18 h 15 - 19 h 30",
+        "time": "17 juin. 2025 - 18 h 15 - 19 h 30",
+        "location": "INHA",
+        "link": "/fr/agenda/un-chef-doeuvre-de-la-cartographie-chinoise-la-carte-geographique-complete-de-lempire-qing"
     },
     {
-        "title": "Julien Cain, de la BN \u00e0 Buchenwald (1939-1945)",
+        "title": "Le Tropaire de l\u2019\u00e9glise d\u2019Autun",
         "description": "",
-        "date": "19 Mai. 2025 - 17 h - 19 h",
-        "time": "19 Mai. 2025 - 17 h - 19 h",
-        "location": "Richelieu",
-        "link": "/fr/agenda/julien-cain-de-la-bn-buchenwald-1939-1945"
+        "date": "24 juin. 2025 - 18 h 15 - 19 h 30",
+        "time": "24 juin. 2025 - 18 h 15 - 19 h 30",
+        "location": "INHA",
+        "link": "/fr/agenda/le-tropaire-de-leglise-dautun"
     },
     {
-        "title": "Recyclez dans l\u2019Antiquit\u00e9\u202f: bijoux, vases et monnaies",
+        "title": "The Japanese Buddhist World Map and its Parisian Reception : A Case Study in the Transcultural Circulation of Cartography",
         "description": "",
-        "date": "20 Mai. 2025 - 12 h\u202f30 - 14 h",
-        "time": "20 Mai. 2025 - 12 h\u202f30 - 14 h",
+        "date": "9 juil. 2025 - 18 h - 19 h\u202f30",
+        "time": "9 juil. 2025 - 18 h - 19 h\u202f30",
         "location": "Richelieu",
-        "link": "/fr/agenda/recyclez-dans-lantiquite-bijoux-vases-et-monnaies"
+        "link": "/fr/agenda/japanese-buddhist-world-map-and-its-parisian-reception-case-study-transcultural-circulation"
+    },
+    {
+        "title": "Les humains font-il la guerre au vivant ?",
+        "description": "",
+        "date": "Mardi 20 mai \u00e0 18h30",
+        "time": "Mardi 20 mai \u00e0 18h30",
+        "location": "Cit\u00e9 des Sciences et de l'Industrie",
+        "link": "https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/conflits-dans-le-vivant#item-grid-178591"
+    },
+    {
+        "title": "L'intelligence artificielle et moi",
+        "description": "",
+        "date": "Jeudi 22 mai \u00e0 14h",
+        "time": "Jeudi 22 mai \u00e0 14h",
+        "location": "Cit\u00e9 des Sciences et de l'Industrie",
+        "link": "https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/ma-premiere-conference#item-grid-177352"
+    },
+    {
+        "title": "Sciences en d\u00e9fis : les orages",
+        "description": "",
+        "date": "3 juin",
+        "time": "3 juin",
+        "location": "Cit\u00e9 des Sciences et de l'Industrie",
+        "link": "https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/ma-premiere-conference#item-grid-183026"
+    },
+    {
+        "title": "Sciences en d\u00e9fis : les coulisses des jeux vid\u00e9o",
+        "description": "",
+        "date": "3 juin",
+        "time": "3 juin",
+        "location": "Cit\u00e9 des Sciences et de l'Industrie",
+        "link": "https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/ma-premiere-conference#item-grid-183026"
+    },
+    {
+        "title": "MA PREMIERE CONFERENCE",
+        "description": "Programme \u00e0 destination du jeune public",
+        "date": "Retrouvez tous les RDV jeunesse de la rentr\u00e9e !",
+        "time": "Retrouvez tous les RDV jeunesse de la rentr\u00e9e !",
+        "location": "Cit\u00e9 des Sciences et de l'Industrie",
+        "link": "https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/ma-premiere-conference"
+    },
+    {
+        "title": "Conf\u00e9rences en replay",
+        "description": "VOIR ou REVOIR les conf\u00e9rences de la saison en cours et des saisons pr\u00e9c\u00e9dentes",
+        "date": "",
+        "time": "",
+        "location": "Cit\u00e9 des Sciences et de l'Industrie",
+        "link": "https://www.cite-sciences.fr/fr/ressources/conferences-en-replay"
+    },
+    {
+        "title": "Infos Pratiques",
+        "description": "Entr\u00e9e gratuite sur r\u00e9servation. \u00c0 l'auditorium de la Cit\u00e9, niveau 0, sauf indication contraire.\nR\u00e9servez votre visite",
+        "date": "",
+        "time": "",
+        "location": "Cit\u00e9 des Sciences et de l'Industrie",
+        "link": "https://billetterie.cite-sciences.fr/"
+    },
+    {
+        "title": "Conf\u00e9rences en replay",
+        "description": "VOIR ou REVOIR les conf\u00e9rences de la saison en cours et des saisons pr\u00e9c\u00e9dentes",
+        "date": "",
+        "time": "",
+        "location": "Cit\u00e9 des Sciences et de l'Industrie",
+        "link": "https://www.cite-sciences.fr/fr/ressources/conferences-en-replay"
+    },
+    {
+        "title": "Accessibilit\u00e9",
+        "description": "",
+        "date": "",
+        "time": "",
+        "location": "Cit\u00e9 des Sciences et de l'Industrie",
+        "link": ""
+    },
+    {
+        "title": "Librairie boutique",
+        "description": "",
+        "date": "",
+        "time": "",
+        "location": "Cit\u00e9 des Sciences et de l'Industrie",
+        "link": ""
+    },
+    {
+        "title": "Abonnement Pass",
+        "description": "",
+        "date": "",
+        "time": "",
+        "location": "Cit\u00e9 des Sciences et de l'Industrie",
+        "link": ""
+    },
+    {
+        "title": "Exposition \u00ab Maria Callas. Portraits des Archives Publifoto Intesa Sanpaolo \u00bb",
+        "description": "Sous le commissariat de Aldo Grasso, l\u2019exposition pr\u00e9sente une s\u00e9lection de 91 images, dont beaucoup sont in\u00e9dites ou n\u2019ont jamais \u00e9t\u00e9 expos\u00e9es, couvrant la p\u00e9riode allant de 1954 \u00e0 1970 et privil\u00e9giant une typologie de clich\u00e9s propres \u00e0 une agence photo journalistique, qui d\u00e9peint Callas dans la vie quotidienne en dehors de la sc\u00e8ne. Les [\u2026]",
+        "date": "jeu Avr 10 2025\nmer Juin 04 2025",
+        "time": "Date de l'\u00e9v\u00e9nement: Du avril 10 2025 Au juin 04 2025",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/mostra-maria-callas-ritratti-dallarchivio-publifoto-intesa-sanpaolo/"
+    },
+    {
+        "title": "Exposition / Sospensioni de Renata Rampazzi",
+        "description": "Sospensioni de Renata Rampazzi15 avril \u2013 30 mai 2025Institut Italien de Culture de Paris \u2013 H\u00f4tel de GalliffetVernissage : 15 avril, 18h00 La peinture est un temps suspendu. Un geste qui s\u2019arr\u00eate, mais qui pourrait se poursuivre \u00e0 l\u2019infini, se transformer, se superposer, muter. La fronti\u00e8re entre le \u00ab fini \u00bb et l\u2019\u00ab inachev\u00e9 \u00bb [\u2026]",
+        "date": "mar Avr 15 2025\nven Mai 30 2025",
+        "time": "Date de l'\u00e9v\u00e9nement: Du avril 15 2025 Au mai 30 2025",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/expostion-sospensioni-de-renata-rampazzi/"
+    },
+    {
+        "title": "Colloque international \u00ab\u00a0Dante en France : la r\u00e9ception savante\u00a0\u00bb",
+        "description": "Le colloque international \u00ab\u00a0Dante en France : la r\u00e9ception savante\u00a0\u00bb se d\u00e9roulera du 19 au 23 mai \u00e0 l\u2019Universit\u00e9 Sorbonne Nouvelle. L\u2019Institut culturel italien de Paris est heureux d\u2019accueillir la journ\u00e9e d\u2019\u00e9tudes du mardi 20 mai. Ce colloque entend fournir une vue d\u2019ensemble des appropriations et de la r\u00e9ception de Dante dans la culture savante [\u2026]",
+        "date": "mar Mai 20 2025",
+        "time": "Date de l'\u00e9v\u00e9nement: La mai 20 2025, 09:30 (Heure locale)",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/colloque-international-dante-en-france-la-reception-savante/"
+    },
+    {
+        "title": "\u00ab\u00a0Pi\u00e8ces pour piano d\u2019apr\u00e8s la lecture de Dante \u00a0\u00bb / R\u00e9cital de C\u00e9lia Oneto Bensaid",
+        "description": "2025 est l\u2019ann\u00e9e du centenaire de la disparition de la compositrice fran\u00e7aise Marie Ja\u00ebll. Cette compositrice, p\u00e9dagogue et pianiste \u00ab star \u00bb de son temps a compos\u00e9 son cycle \u00ab testament \u00bb d\u2019apr\u00e8s la lecture du Dante. Divis\u00e9e en trois cahiers, parcourant successivement l\u2019Enfer, le Purgatoire et le Paradis, cette partition tr\u00e8s atypique et suivant [\u2026]",
+        "date": "mar Mai 20 2025",
+        "time": "Date de l'\u00e9v\u00e9nement: La mai 20 2025, 19:30 (Heure locale)",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/pieces-pour-piano-dapres-la-lecture-de-dante-recital-de-celia-oneto-bensaid/"
+    },
+    {
+        "title": "\u00ab\u00a0La vie des formes\u00a0\u00bb : rencontre avec Emanuele Coccia et Alessandro Michele",
+        "description": "A l\u2019occasion de la parution de leur ouvrage La vie des Formes. Philosophie du r\u00e9enchantement\u00a0(Flammarion, 2025), l\u2019Institut culturel italien a le plaisir d\u2019inviter le philosophe et essayiste\u00a0Emanuele Coccia\u00a0et\u00a0Alessandro Michele, directeur artistique de la maison Valentino, pour une rencontre anim\u00e9e par le journaliste Jean-Marie Durand. Depuis quand et pourquoi la mode outrepasse-t-elle le domaine de la [\u2026]",
+        "date": "Date de l'\u00e9v\u00e9nement: La mai 21 2025, 18:30 (Heure locale)",
+        "time": "Date de l'\u00e9v\u00e9nement: La mai 21 2025, 18:30 (Heure locale)",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/la-vita-delle-forme-incontro-con-emanuele-coccia-e-alessandro-michele/"
+    },
+    {
+        "title": "Concert / Francesco Turrisi piano solo",
+        "description": "Le pianiste Francesco Turrisi, l\u2019un des rares Italiens \u00e0 avoir remport\u00e9 un Grammy Award, a \u00e9t\u00e9 qualifi\u00e9 d\u2019\u00ab alchimiste \u00bb et de \u00ab polyglotte musical \u00bb par la presse internationale. Northern Migrations, son dernier album pour piano solo, \u00ab d\u00e9licat, m\u00e9lancolique et fascinant \u00bb selon The Irish Times, a \u00e9t\u00e9 pr\u00e9sent\u00e9 en Irlande, en France, [\u2026]",
+        "date": "Date de l'\u00e9v\u00e9nement: La mai 22 2025, 19:00 (Heure locale)",
+        "time": "Date de l'\u00e9v\u00e9nement: La mai 22 2025, 19:00 (Heure locale)",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/concert-francesco-turrini-piano-solo/"
+    },
+    {
+        "title": "Les Enfants de Gaza. Sur les vagues de la libert\u00e9 / Litt\u00e9rature et Cin\u00e9ma",
+        "description": "Projection du film I Bambini di Gaza. Sulle onde della libert\u00e0 de Loris Lai (Italie, Belgique, Etats-Unis, 2024, 108\u2032, VOSTF) en pr\u00e9sence du r\u00e9alisateur et de Nicoletta Bortolotti, autrice du roman du m\u00eame nom (Mondadori, 2024), dont le film est tir\u00e9. \u00c9t\u00e9 2003. Mahmud et Samir vivent \u00e0 Gaza City, une ville frapp\u00e9e chaque jour [\u2026]",
+        "date": "Date de l'\u00e9v\u00e9nement: La mai 26 2025, 18:30 (Heure locale)",
+        "time": "Date de l'\u00e9v\u00e9nement: La mai 26 2025, 18:30 (Heure locale)",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/les-enfants-de-gaza-sur-les-vagues-de-la-liberte-litterature-et-cinema/"
+    },
+    {
+        "title": "Concert / Schiena Dritta pour Gianmaria Testa",
+        "description": "Schiena Dritta pour Gianmaria Testa est un hommage d\u2019affection et d\u2019estime sans limites pour Gianmaria Testa, grand auteur pi\u00e9montais disparu en 2016 \u00e0 l\u2019\u00e2ge de cinquante-huit ans. Il n\u2019est pas exag\u00e9r\u00e9 d\u2019affirmer qu\u2019il a laiss\u00e9 un vide irr\u00e9parable, y compris en France. Le journaliste Guido Festinese, ami de Testa \u00e0 \u00e9crit des\u00a0 \u00abtableaux de vie\u00bb [\u2026]",
+        "date": "Date de l'\u00e9v\u00e9nement: La mai 27 2025, 18:30 (Heure locale)",
+        "time": "Date de l'\u00e9v\u00e9nement: La mai 27 2025, 18:30 (Heure locale)",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/13175/"
+    },
+    {
+        "title": "Th\u00e9\u00e2tre / \u00ab\u00a0Clytemnestre\u00a0\u00bb, de Luciano Violante avec Viola Graziosi",
+        "description": "Je connais l\u2019odeur de la mort et du sang\u2026 C\u2019est ainsi que commence le r\u00e9cit de Clytemnestre, reine de Myc\u00e8nes et meurtri\u00e8re d\u2019Agamemnon, son mari, \u00e9crit pour l\u2019occasion par Luciano Violante et destin\u00e9 au public contemporain. Meurtri\u00e8re par vengeance ou meurtri\u00e8re par justice ? C\u2019est la question que pose le r\u00e9alisateur en esquissant sa Clytemnestre, [\u2026]",
+        "date": "Date de l'\u00e9v\u00e9nement: La mai 28 2025, 18:30 (Heure locale)",
+        "time": "Date de l'\u00e9v\u00e9nement: La mai 28 2025, 18:30 (Heure locale)",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/clitemnestra-di-luciano-violante-con-viola-graziosi/"
+    },
+    {
+        "title": "Vernissage / Les \u00c9trang\u00e8res \u2013 Stefania Pennacchio",
+        "description": "Les \u00c9trang\u00e8res \u2013 Stefania PennacchioExposition sous le commissariat de Jean Blanchaert Vernissage : 3 juin 2025 \u00e0 18h00Dates : du 3 juin au 20 septembre 2025Lieu : Institut culturel italien de Paris L\u2019Institut culturel italien de Paris, en collaboration avec l\u2019Association Culturelle Leuc\u00f2 Art Gallery, pr\u00e9sente l\u2019exposition\u00a0\u00ab Les \u00c9trang\u00e8res \u00bb\u00a0de l\u2019artiste\u00a0Stefania Pennacchio, sous le commissariat [\u2026]",
+        "date": "Date de l'\u00e9v\u00e9nement: La juin 03 2025, 18:00 (Heure locale)",
+        "time": "Date de l'\u00e9v\u00e9nement: La juin 03 2025, 18:00 (Heure locale)",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/vernissage-les-etrangeres-stefania-pennacchio/"
+    },
+    {
+        "title": "Exposition \u00ab Maria Callas. Portraits des Archives Publifoto Intesa Sanpaolo \u00bb",
+        "description": "Sous le commissariat de Aldo Grasso, l\u2019exposition pr\u00e9sente une s\u00e9lection de 91 images, dont beaucoup sont in\u00e9dites ou n\u2019ont jamais \u00e9t\u00e9 expos\u00e9es, couvrant la p\u00e9riode allant de 1954 \u00e0 1970 et privil\u00e9giant une typologie de clich\u00e9s propres \u00e0 une agence photo journalistique, qui d\u00e9peint Callas dans la vie quotidienne en dehors de la sc\u00e8ne. Les [\u2026]",
+        "date": "jeu Avr 10 2025\nmer Juin 04 2025",
+        "time": "",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/mostra-maria-callas-ritratti-dallarchivio-publifoto-intesa-sanpaolo/"
+    },
+    {
+        "title": "Exposition / Sospensioni de Renata Rampazzi",
+        "description": "Sospensioni de Renata Rampazzi15 avril \u2013 30 mai 2025Institut Italien de Culture de Paris \u2013 H\u00f4tel de GalliffetVernissage : 15 avril, 18h00 La peinture est un temps suspendu. Un geste qui s\u2019arr\u00eate, mais qui pourrait se poursuivre \u00e0 l\u2019infini, se transformer, se superposer, muter. La fronti\u00e8re entre le \u00ab fini \u00bb et l\u2019\u00ab inachev\u00e9 \u00bb [\u2026]",
+        "date": "mar Avr 15 2025\nven Mai 30 2025",
+        "time": "",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/expostion-sospensioni-de-renata-rampazzi/"
+    },
+    {
+        "title": "Colloque international \u00ab\u00a0Dante en France : la r\u00e9ception savante\u00a0\u00bb",
+        "description": "Le colloque international \u00ab\u00a0Dante en France : la r\u00e9ception savante\u00a0\u00bb se d\u00e9roulera du 19 au 23 mai \u00e0 l\u2019Universit\u00e9 Sorbonne Nouvelle. L\u2019Institut culturel italien de Paris est heureux d\u2019accueillir la journ\u00e9e d\u2019\u00e9tudes du mardi 20 mai. Ce colloque entend fournir une vue d\u2019ensemble des appropriations et de la r\u00e9ception de Dante dans la culture savante [\u2026]",
+        "date": "mar Mai 20 2025",
+        "time": "",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/colloque-international-dante-en-france-la-reception-savante/"
+    },
+    {
+        "title": "\u00ab\u00a0Pi\u00e8ces pour piano d\u2019apr\u00e8s la lecture de Dante \u00a0\u00bb / R\u00e9cital de C\u00e9lia Oneto Bensaid",
+        "description": "2025 est l\u2019ann\u00e9e du centenaire de la disparition de la compositrice fran\u00e7aise Marie Ja\u00ebll. Cette compositrice, p\u00e9dagogue et pianiste \u00ab star \u00bb de son temps a compos\u00e9 son cycle \u00ab testament \u00bb d\u2019apr\u00e8s la lecture du Dante. Divis\u00e9e en trois cahiers, parcourant successivement l\u2019Enfer, le Purgatoire et le Paradis, cette partition tr\u00e8s atypique et suivant [\u2026]",
+        "date": "mar Mai 20 2025",
+        "time": "",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/pieces-pour-piano-dapres-la-lecture-de-dante-recital-de-celia-oneto-bensaid/"
+    },
+    {
+        "title": "\u00ab\u00a0La vie des formes\u00a0\u00bb : rencontre avec Emanuele Coccia et Alessandro Michele",
+        "description": "A l\u2019occasion de la parution de leur ouvrage La vie des Formes. Philosophie du r\u00e9enchantement\u00a0(Flammarion, 2025), l\u2019Institut culturel italien a le plaisir d\u2019inviter le philosophe et essayiste\u00a0Emanuele Coccia\u00a0et\u00a0Alessandro Michele, directeur artistique de la maison Valentino, pour une rencontre anim\u00e9e par le journaliste Jean-Marie Durand. Depuis quand et pourquoi la mode outrepasse-t-elle le domaine de la [\u2026]",
+        "date": "",
+        "time": "",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/la-vita-delle-forme-incontro-con-emanuele-coccia-e-alessandro-michele/"
+    },
+    {
+        "title": "Concert / Francesco Turrisi piano solo",
+        "description": "Le pianiste Francesco Turrisi, l\u2019un des rares Italiens \u00e0 avoir remport\u00e9 un Grammy Award, a \u00e9t\u00e9 qualifi\u00e9 d\u2019\u00ab alchimiste \u00bb et de \u00ab polyglotte musical \u00bb par la presse internationale. Northern Migrations, son dernier album pour piano solo, \u00ab d\u00e9licat, m\u00e9lancolique et fascinant \u00bb selon The Irish Times, a \u00e9t\u00e9 pr\u00e9sent\u00e9 en Irlande, en France, [\u2026]",
+        "date": "",
+        "time": "",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/concert-francesco-turrini-piano-solo/"
+    },
+    {
+        "title": "Les Enfants de Gaza. Sur les vagues de la libert\u00e9 / Litt\u00e9rature et Cin\u00e9ma",
+        "description": "Projection du film I Bambini di Gaza. Sulle onde della libert\u00e0 de Loris Lai (Italie, Belgique, Etats-Unis, 2024, 108\u2032, VOSTF) en pr\u00e9sence du r\u00e9alisateur et de Nicoletta Bortolotti, autrice du roman du m\u00eame nom (Mondadori, 2024), dont le film est tir\u00e9. \u00c9t\u00e9 2003. Mahmud et Samir vivent \u00e0 Gaza City, une ville frapp\u00e9e chaque jour [\u2026]",
+        "date": "",
+        "time": "",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/les-enfants-de-gaza-sur-les-vagues-de-la-liberte-litterature-et-cinema/"
+    },
+    {
+        "title": "Concert / Schiena Dritta pour Gianmaria Testa",
+        "description": "Schiena Dritta pour Gianmaria Testa est un hommage d\u2019affection et d\u2019estime sans limites pour Gianmaria Testa, grand auteur pi\u00e9montais disparu en 2016 \u00e0 l\u2019\u00e2ge de cinquante-huit ans. Il n\u2019est pas exag\u00e9r\u00e9 d\u2019affirmer qu\u2019il a laiss\u00e9 un vide irr\u00e9parable, y compris en France. Le journaliste Guido Festinese, ami de Testa \u00e0 \u00e9crit des\u00a0 \u00abtableaux de vie\u00bb [\u2026]",
+        "date": "",
+        "time": "",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/13175/"
+    },
+    {
+        "title": "Th\u00e9\u00e2tre / \u00ab\u00a0Clytemnestre\u00a0\u00bb, de Luciano Violante avec Viola Graziosi",
+        "description": "Je connais l\u2019odeur de la mort et du sang\u2026 C\u2019est ainsi que commence le r\u00e9cit de Clytemnestre, reine de Myc\u00e8nes et meurtri\u00e8re d\u2019Agamemnon, son mari, \u00e9crit pour l\u2019occasion par Luciano Violante et destin\u00e9 au public contemporain. Meurtri\u00e8re par vengeance ou meurtri\u00e8re par justice ? C\u2019est la question que pose le r\u00e9alisateur en esquissant sa Clytemnestre, [\u2026]",
+        "date": "",
+        "time": "",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/clitemnestra-di-luciano-violante-con-viola-graziosi/"
+    },
+    {
+        "title": "Vernissage / Les \u00c9trang\u00e8res \u2013 Stefania Pennacchio",
+        "description": "Les \u00c9trang\u00e8res \u2013 Stefania PennacchioExposition sous le commissariat de Jean Blanchaert Vernissage : 3 juin 2025 \u00e0 18h00Dates : du 3 juin au 20 septembre 2025Lieu : Institut culturel italien de Paris L\u2019Institut culturel italien de Paris, en collaboration avec l\u2019Association Culturelle Leuc\u00f2 Art Gallery, pr\u00e9sente l\u2019exposition\u00a0\u00ab Les \u00c9trang\u00e8res \u00bb\u00a0de l\u2019artiste\u00a0Stefania Pennacchio, sous le commissariat [\u2026]",
+        "date": "",
+        "time": "",
+        "location": "Institut Culturel Italien de Paris",
+        "link": "https://iicparigi.esteri.it/fr/gli_eventi/calendario/vernissage-les-etrangeres-stefania-pennacchio/"
     }
 ]

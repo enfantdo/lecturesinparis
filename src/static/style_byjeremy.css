@@ -1,7 +1,23 @@
 /* lecturesinparis */
 
+:root {
+  font-size: 16px; /* or 100% */
+  --font-size-small: 0.75rem;
+  --font-size-daydate: 1.25rem;
+  --font-size-title_host_link: 1.25rem;
+  --font-size-title: 1.9rem;
+  --font-weight-normal: 400;
+  --font-weight-normalplus: 500;
+  --font-weight-lighter: lighter;
+  --font-family-main: "Helvetica, Arial, sans-serif";
+  --color1: #f0f3f7; /* #f0f3f7; baby blue */
+}
+
+
+
+
 body {
-  background-color: #f0f3f7;
+  background-color: var(--color1);
   /* background-image: url(img/bg3.png); */
   /* background-repeat: no-repeat;*/
   /* background-size:  cover; */
@@ -13,7 +29,342 @@ body {
   height: 100%;
   }
   
+
   
+  /* header */
+  /* ---------------------------------------------------------------------------- */
+  
+  
+  #toggle{
+    visibility: hidden;
+    opacity: 0;
+    position: relative;
+    z-index: 1;
+  }
+  
+  #toggle:checked ~ .bio {
+    display: contents;
+  }
+  
+  #toggle2{
+    visibility: hidden;
+    opacity: 0;
+    position: relative;
+    z-index: 1;
+  }
+  
+  #toggle2:checked ~ .bio2 {
+    display: contents;
+  }
+  
+  .info {
+    color: black;
+    font-size: 16.5px;
+    position: relative;
+    text-align: justify;
+    font-size: 13.5px;
+    padding-right: 13px;
+    border-top: 5px solid black;
+    cursor: pointer;
+    left: calc(50% - 164px);
+    top: 5px;
+    cursor: help;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  @keyframes appear {
+    0%{
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+  }
+  
+  .form-row {
+    animation: appear 900ms ease 1;
+    width: 60%;
+    font-family: "Helvetica";
+    text-align: center;
+    margin: 14px auto -10px;
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+  
+  
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  .form-group{
+    border: 2px solid black;
+    border-left-width: thick;
+    text-decoration:none;
+  }
+  
+  
+  dialog  > p {
+    animation: appear 900ms ease 1;
+    width: 60%;
+  
+    /* background-image: url(img/h1bg.png); */
+  
+    display: block;
+    margin: 14px auto -10px;
+  
+    font-family: "Helvetica";
+    text-align: center;
+  
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  .logoimg {
+    background-image: url(img/h1bg025.png);
+    background-size: 19em 20px;
+    background-position: bottom ;
+    background-repeat: no-repeat;
+  
+    max-width: 100%;
+    height: 50px;
+    display: table;
+    margin: 22px auto 0;
+    cursor: cell;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  
+  .subheader {
+    font-family: "Helvetica";
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    top: 4.5px;
+    /* left: 37.82rem; */
+    position: relative;
+    font-size: 13.5px;
+    padding-right: 13px;
+    border-top: 5px solid black;
+    cursor: pointer;
+    left: calc(50% - 144.5px);
+    cursor: copy;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  .subheadercontact {
+    font-family: "Helvetica";
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    top: 4.5px;
+    /* left: 37.82rem; */
+    position: relative;
+    font-size: 13.5px;
+    padding-right: 13px;
+    border-top: 5px solid black;
+    left: calc(50% - 125px);
+    cursor: e-resize;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  
+  
+  /* calendar */
+  /* ---------------------------------------------------------------------------- */
+  .calendar {
+    /* display: flex; */
+    display: block;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: center;
+    font-family: "Helvetica";
+    flex-direction: column;
+    max-width: 41rem; /* Set the width to 80% of the page */
+    margin: 1.25rem auto; /* Center the calendar with auto margins */
+}
+
+
+  .calendar > .event {
+    max-height: 18rem;
+    margin-bottom: 1rem;
+    overflow: hidden;
+    overflow: scroll;
+    padding: .25rem 0 0 0;
+    box-sizing: border-box;
+    border-top: 5px solid black;
+    flex: 1;
+    flex-grow: 1;
+    opacity: 0.85;
+    transition: all 0.5s; /* transition when the mouse over */
+  }
+
+  /* Hide scrollbar for WebKit browsers */
+.calendar > .event::-webkit-scrollbar {
+  width: 0; /* Remove vertical scrollbar */
+  height: 0; /* Remove horizontal scrollbar */
+}
+
+  .calendar > .event:hover {
+    opacity: 1;
+    /* background-color: lightblue; */
+  
+  }
+  .calendar > .daydate {
+    margin-bottom: 1.25px;
+    margin-top: 1.25px;
+    /* background-image: url(img/h1bg050.png); */
+    background-size: 100% 200%;
+    border-left: 10px solid black;
+    padding-left: 0.25rem;
+    flex: 1;
+    flex-grow: 1;
+    text-align: left;
+    /* border-bottom: 2.5px solid black; */
+  }
+
+  .calendar > .daydate:hover {
+    /* opacity: 1;
+    background-color: lightblue;
+    transition: all 9s; transition when the mouse over */
+  }
+
+  .calendar > .daydate > .day {
+    font-size: var(--font-size-title);
+    margin: 0;
+  }
+  .calendar > .daydate > .date {
+    font-size: var(--font-size-daydate);
+    margin: 0;
+    margin-top: -2rem;
+  }
+  .calendar > .daydate > .month {
+    font-size: var(--font-size-daydate);
+    margin: 0;
+    margin-top: -1%;
+    padding-left: 1px;
+  }
+  .calendar > .event > .title {
+    font-size: var(--font-size-title);
+    font-weight: var(--font-weight-normal);
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+    cursor: cell;
+    text-decoration: none; /* Remove underline */
+    color: black; /* Set text color to black */
+  }
+  .calendar > .event > .title:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+.calendar > .event > .time {
+  font-size: var(--font-size-title_host_link);
+  margin: 0;
+  padding-bottom: 0.1em;
+  display: inline-block;
+  font-weight: var(--font-weight-normal)
+}
+  .calendar > .event > .timehost {
+    font-size: var(--font-size-title_host_link);
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    font-weight: var(--font-weight-normal)
+  }
+  .calendar > .event > .link {
+    font-size: var(--font-size-title_host_link);
+    margin: 0;
+    cursor: pointer;
+    color: #0066cc;
+    text-decoration: underline;
+    transition: 3s;
+  }
+  .calendar > .event > .link:hover {
+    background-color: #f0f0f0;
+    font-style: oblique;
+  }
+  .calendar > .event > .description {
+    font-size: 17px;
+    margin: 0;
+    text-align: justify;
+    padding-top: 0.40em;
+    font-weight: var(--font-weight-lighter);
+    margin-bottom: .25rem;
+  }
+  
+  /* darkmode */
+  /* ---------------------------------------------------------------------------- */
+  @media (prefers-color-scheme: dark) {
+  body {
+  filter: invert(1);
+  background-color: black;
+  }
+  .calendar > .event > .link {
+  color: rgb(214, 135, 19)
+  /* color: red */
+  }
+  }
+  
+  
+  /* crossplatform edit */
+  /* ---------------------------------------------------------------------------- */
+  
+  @media only screen and (max-width: 767px) {
+    .bgquote1::after {
+      display: none;
+    }
+    .bgquote2:after {
+      display: none;
+    }
+    .bgquote3:after {
+      display: none;
+    }
+    .bgquote4:after {
+      display: none;
+    }
+    .bgquote5:after {
+      display: none;
+    }
+    .bgquote6:after {
+      display: none;
+    }
+    .bgquote7:after {
+      display: none;
+    }
+    .bgquote8:after {
+      display: none;
+    }
+    .bgquote9:after {
+      display: none;
+    }
+    .bgquote10:after {
+      display: none;
+    }
+    .bgquote11:after {
+      display: none;
+    }
+  
+    .logoimg {
+  
+    }
+  }
+  
+
+    
   /* animated background with quotes */
   /* ---------------------------------------------------------------------------- */
   
@@ -209,304 +560,3 @@ body {
       transform: translate(0, 0rem) rotate(-90deg) skew(0.1deg, 0deg);
     }
   }
-  
-  /* header */
-  /* ---------------------------------------------------------------------------- */
-  
-  
-  #toggle{
-    visibility: hidden;
-    opacity: 0;
-    position: relative;
-    z-index: 1;
-  }
-  
-  #toggle:checked ~ .bio {
-    display: contents;
-  }
-  
-  #toggle2{
-    visibility: hidden;
-    opacity: 0;
-    position: relative;
-    z-index: 1;
-  }
-  
-  #toggle2:checked ~ .bio2 {
-    display: contents;
-  }
-  
-  .info {
-    color: black;
-    font-size: 16.5px;
-    position: relative;
-    text-align: justify;
-    font-size: 13.5px;
-    padding-right: 13px;
-    border-top: 5px solid black;
-    cursor: pointer;
-    left: calc(50% - 164px);
-    top: 5px;
-    cursor: help;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: -moz-none;
-    -o-user-select: none;
-    user-select: none;
-  }
-  @keyframes appear {
-    0%{
-      opacity: 0;
-      transform: translateY(-10px);
-    }
-  }
-  
-  .form-row {
-    animation: appear 900ms ease 1;
-    width: 60%;
-    font-family: "Helvetica";
-    text-align: center;
-    margin: 14px auto -10px;
-    display: flex;
-    justify-content: center;
-    gap: 4px;
-  
-  
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: -moz-none;
-    -o-user-select: none;
-    user-select: none;
-  }
-  
-  .form-group{
-    border: 2px solid black;
-    border-left-width: thick;
-    text-decoration:none;
-  }
-  
-  
-  dialog  > p {
-    animation: appear 900ms ease 1;
-    width: 60%;
-  
-    /* background-image: url(img/h1bg.png); */
-  
-    display: block;
-    margin: 14px auto -10px;
-  
-    font-family: "Helvetica";
-    text-align: center;
-  
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: -moz-none;
-    -o-user-select: none;
-    user-select: none;
-  }
-  
-  .logoimg {
-    background-image: url(img/h1bg025.png);
-    background-size: 19em 20px;
-    background-position: bottom ;
-    background-repeat: no-repeat;
-  
-    max-width: 100%;
-    height: 50px;
-    display: table;
-    margin: 22px auto 0;
-    cursor: cell;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: -moz-none;
-    -o-user-select: none;
-    user-select: none;
-  }
-  
-  
-  .subheader {
-    font-family: "Helvetica";
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-    top: 4.5px;
-    /* left: 37.82rem; */
-    position: relative;
-    font-size: 13.5px;
-    padding-right: 13px;
-    border-top: 5px solid black;
-    cursor: pointer;
-    left: calc(50% - 144.5px);
-    cursor: copy;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: -moz-none;
-    -o-user-select: none;
-    user-select: none;
-  }
-  
-  .subheadercontact {
-    font-family: "Helvetica";
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-    top: 4.5px;
-    /* left: 37.82rem; */
-    position: relative;
-    font-size: 13.5px;
-    padding-right: 13px;
-    border-top: 5px solid black;
-    left: calc(50% - 125px);
-    cursor: e-resize;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: -moz-none;
-    -o-user-select: none;
-    user-select: none;
-  }
-  
-  
-  
-  /* calendar */
-  /* ---------------------------------------------------------------------------- */
-  .calendar {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: stretch;
-    justify-content: center;
-    font-family: "Helvetica";
-    flex-direction: column;
-    max-width: 41rem; /* Set the width to 80% of the page */
-    margin: 1rem auto; /* Center the calendar with auto margins */
-}
-  
-  .calendar > .event {
-    max-height: 18rem;
-    margin-bottom: 13px;
-    overflow: scroll;
-  
-    border-top: 5px solid black;
-    flex: 1;
-    flex-grow: 1;
-    opacity: 0.85;
-    transition: all 0.5s; /* transition when the mouse over */
-  }
-  .calendar > .event:hover {
-    opacity: 1;
-    /* background-color: lightblue; */
-  }
-  .calendar > .daydate {
-    margin-bottom: 15px;
-    margin-top: 15px;
-    background-image: url(img/h1bg050.png);
-    background-size: 100% 200%;
-    border-left: 10px solid  black;
-    padding-left: 0.25rem;
-  
-    flex: 1;
-    flex-grow: 1;
-  }
-  .calendar > .daydate > .day {
-    font-size: 32px;
-    margin: 0;
-  }
-  .calendar > .daydate > .date {
-    font-size: 32px;
-    margin: 0;
-    margin-top: -2rem;
-  }
-  .calendar > .event > .time {
-    font-size: 22px;
-    margin: 0;
-    padding-bottom: 0.1em;
-    display: inline-block;
-  }
-  .calendar > .daydate > .month {
-    font-size: 32px;
-    margin: 0;
-    margin-top: -1%;
-    padding-left: 1px;
-  }
-  .calendar > .event > .title {
-    font-size: 27px;
-    margin: 0;
-    padding-bottom: 0.1em;
-  }
-  .calendar > .event > .host {
-    font-size: 19px;
-    margin: 0;
-  }
-  .calendar > .event > .link {
-    font-size: 12px;
-    margin: 0;
-    cursor: pointer;
-    color: #0066cc;
-    text-decoration: underline;
-    transition: 3s;
-  }
-  .calendar > .event > .link:hover {
-    background-color: #f0f0f0;
-    font-style: oblique;
-  }
-  .calendar > .event > .description {
-    font-size: 17px;
-    margin: 0;
-    text-align: justify;
-    padding-top: 0.40em;
-  }
-  
-  /* darkmode */
-  /* ---------------------------------------------------------------------------- */
-  @media (prefers-color-scheme: dark) {
-  body {
-  filter: invert(1);
-  background-color: black;
-  }
-  .calendar > .event > .link {
-  color: rgb(214, 135, 19)
-  /* color: red */
-  }
-  }
-  
-  
-  /* crossplatform edit */
-  /* ---------------------------------------------------------------------------- */
-  
-  @media only screen and (max-width: 767px) {
-    .bgquote1::after {
-      display: none;
-    }
-    .bgquote2:after {
-      display: none;
-    }
-    .bgquote3:after {
-      display: none;
-    }
-    .bgquote4:after {
-      display: none;
-    }
-    .bgquote5:after {
-      display: none;
-    }
-    .bgquote6:after {
-      display: none;
-    }
-    .bgquote7:after {
-      display: none;
-    }
-    .bgquote8:after {
-      display: none;
-    }
-    .bgquote9:after {
-      display: none;
-    }
-    .bgquote10:after {
-      display: none;
-    }
-    .bgquote11:after {
-      display: none;
-    }
-  
-    .logoimg {
-  
-    }
-  }
-  

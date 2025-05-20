@@ -2,6 +2,10 @@ from flask import Flask, render_template, jsonify
 from collections import defaultdict
 from datetime import datetime
 import json
+import locale
+
+# Set locale to French
+locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')
 
 
 app = Flask(__name__)

@@ -101,17 +101,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="calendar">
     {% for date, events in grouped_events %}
         <div class="daydate">
-            <h3 class="day">{{ date | date("%A %d") }}</h3> <!-- Display the day and date -->
-            <h3 class="month">{{ date | date("%B") }}</h3> <!-- Display the month -->
+          <h3 class="day">{{ date | date("%a, %B %d") | capitalize }}</h3>
         </div>
         {% for event in events %}
             <div class="event">
-                <h4 class="time">{{ event.time }}</h4>
-                <h5 class="title">{{ event.title }}</h5>
-                <h6 class="host">:: {{ event.location }}</h6>
-                <a class="link" href="{{ event.link }}" target="_blank">lien</a>
-                <p class="description">{{ event.description }}</p>
-            </div>
+              <a class="title" href="{{ event.link }}" target="_blank">{{ event.title }}</a>
+              <h6 class="timehost">{{ event.time }} @{{ event.location }}</h6>
+              <p class="description">{{ event.description }}</p>
+          </div>
         {% endfor %}
     {% endfor %}
 </div>
